@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucid
+.gemini/
+
+# Project Specific
+models/*.pkl
+models/*.npy
+models/plots/*.png
+diagnostic_results.json
+Medical_Diagnosis_Report.pdf
+execution_log.txt
+*.egg-info/
+build/
+dist/
+
+# System
+.DS_Store
+Thumbs.db

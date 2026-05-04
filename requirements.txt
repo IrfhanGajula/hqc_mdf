@@ -1,0 +1,8 @@
+pennylane
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+fpdf2
